@@ -1,0 +1,16 @@
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\bin\Debug\6ceptebre.exe.config
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\bin\Debug\6ceptebre.exe
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\bin\Debug\6ceptebre.pdb
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\6ceptebre.csproj.AssemblyReference.cache
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\6ceptebre.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\MainWindow.g.cs
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\App.g.cs
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\6ceptebre_MarkupCompile.cache
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\6ceptebre_MarkupCompile.lref
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\MainWindow.baml
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\6ceptebre.g.resources
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\_6ceptebre.Properties.Resources.resources
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\6ceptebre.csproj.GenerateResource.cache
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\6ceptebre.csproj.CoreCompileInputs.cache
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\6ceptebre.exe
+C:\Users\kirill\source\repos\6ceptebre\6ceptebre\obj\Debug\6ceptebre.pdb
